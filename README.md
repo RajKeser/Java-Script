@@ -1,2 +1,5 @@
 # Java-Script
-A code repo for java script series.
+This repo contains my learning files and practice codes.
+
+## Author
+Rajkeshar Yadav
